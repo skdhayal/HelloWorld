@@ -1,0 +1,4 @@
+hello this is my first file using vi editor
+I'm trying to understand how this all stuff works
+I'm learing git now
+
